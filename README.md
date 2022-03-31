@@ -1,4 +1,4 @@
-# **0_BRIEF**
+# **0_BRIEF -- Chapstone Project II - Data Analysis**
 Perkenalkan saya Alfian. Berikut adalah high level dari apa yang telah kerjakan Pada Chapstone Project II - Data Analysis. Pembahasan saya mulai dari : 
 * Pembahasan General mengenai database
 * SQL
