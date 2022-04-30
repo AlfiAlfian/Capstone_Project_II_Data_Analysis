@@ -7,7 +7,7 @@ Perkenalkan saya Alfian. Berikut adalah high level dari apa yang telah kerjakan 
 
 Untuk detail setiap bagiannya dapat melihat informasi dibawah ini. 
 
-Bila ada masukan megenai project ini atau hal hal yang sekiranya ingin disampaikan dapat menghubungi saya di email sebagai berikut : personalalfi22@gmail.com
+Bila ada masukan megenai project ini atau hal hal yang sekiranya ingin disampaikan dapat menghubungi saya di email sebagai berikut :
 
 Terima kasih
 
